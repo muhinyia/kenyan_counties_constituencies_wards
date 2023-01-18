@@ -57,4 +57,4 @@ Can you take the challenge of adding other administrative units such as location
 ## Conclusion
 Thank you for using this repository. We hope it will be useful in your project! If you have any questions or feedback, please feel free to open an issue.
 
-cheers. Happy coding  :sunglasses:
+Happy coding. Cheers!  :sunglasses:
