@@ -26,7 +26,7 @@ wards = {
 ## Usage
 This data can be useful in various ways, such as:
 
-- Using it in your application to display the geographical divisions of Kenya.
+- Using it in your application to display the administrative units of Kenya.
 - Visualizing the data on a map to show the different county, constituency and ward boundaries.
 - Use it as a reference when working with data that is related to Kenya's geographical divisions.
 
